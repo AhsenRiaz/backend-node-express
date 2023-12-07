@@ -1,0 +1,10 @@
+2023-12-07 18:26:47: error: MongoDB connection error: TypeError: Cannot read properties of undefined (reading 'DATABASE_URI')
+2023-12-07 18:26:59: error: MongoDB connection error: TypeError: Cannot read properties of undefined (reading 'DATABASE_URI')
+2023-12-07 18:27:16: error: MongoDB connection error: ReferenceError: app is not defined
+2023-12-07 18:28:37: error: MongoDB connection error: ReferenceError: app is not defined
+2023-12-07 18:29:11: error: MongoDB connection error: ReferenceError: app is not defined
+2023-12-07 18:29:55: error: listen EACCES: permission denied 0.0.0.0:666
+2023-12-07 18:31:12: error: listen EACCES: permission denied 0.0.0.0:666
+2023-12-07 18:31:30: error: listen EACCES: permission denied 0.0.0.0:666
+2023-12-07 18:32:57: error: listen EACCES: permission denied 0.0.0.0:666
+2023-12-07 18:33:32: error: listen EACCES: permission denied 0.0.0.0:666

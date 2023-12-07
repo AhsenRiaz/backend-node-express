@@ -1,0 +1,49 @@
+2023-12-07 18:26:47: error: MongoDB connection error: TypeError: Cannot read properties of undefined (reading 'DATABASE_URI')
+2023-12-07 18:26:59: error: MongoDB connection error: TypeError: Cannot read properties of undefined (reading 'DATABASE_URI')
+2023-12-07 18:27:08: info: Connecting to MongoDB...
+2023-12-07 18:27:14: info: Connecting to MongoDB...
+2023-12-07 18:27:16: info: 🚀 Connected to MongoDB!
+2023-12-07 18:27:16: info: 🚀 MongoDB connection opened!
+2023-12-07 18:27:16: info: 🚀 Connected to MongoDB end!
+2023-12-07 18:27:16: info: 🚀 Initial MongoDB!
+2023-12-07 18:27:16: error: MongoDB connection error: ReferenceError: app is not defined
+2023-12-07 18:28:35: info: Connecting to MongoDB...
+2023-12-07 18:28:37: info: 🚀 Connected to MongoDB!
+2023-12-07 18:28:37: info: 🚀 MongoDB connection opened!
+2023-12-07 18:28:37: info: 🚀 Connected to MongoDB end!
+2023-12-07 18:28:37: info: 🚀 Initial MongoDB!
+2023-12-07 18:28:37: error: MongoDB connection error: ReferenceError: app is not defined
+2023-12-07 18:29:09: info: Connecting to MongoDB...
+2023-12-07 18:29:11: info: 🚀 Connected to MongoDB!
+2023-12-07 18:29:11: info: 🚀 MongoDB connection opened!
+2023-12-07 18:29:11: info: 🚀 Connected to MongoDB end!
+2023-12-07 18:29:11: info: 🚀 Initial MongoDB!
+2023-12-07 18:29:11: error: MongoDB connection error: ReferenceError: app is not defined
+2023-12-07 18:29:52: info: Connecting to MongoDB...
+2023-12-07 18:29:55: info: 🚀 Connected to MongoDB!
+2023-12-07 18:31:08: info: Connecting to MongoDB...
+2023-12-07 18:31:12: info: 🚀 Connected to MongoDB!
+2023-12-07 18:31:29: info: Connecting to MongoDB...
+2023-12-07 18:31:30: info: 🚀 Connected to MongoDB!
+2023-12-07 18:32:54: info: Connecting to MongoDB...
+2023-12-07 18:32:57: info: 🚀 Connected to MongoDB!
+2023-12-07 18:33:30: info: Connecting to MongoDB...
+2023-12-07 18:33:32: info: 🚀 Connected to MongoDB!
+2023-12-07 18:33:56: info: Connecting to MongoDB...
+2023-12-07 18:33:59: info: 🚀 Connected to MongoDB!
+2023-12-07 18:33:59: info: 🚀 MongoDB connection opened!
+2023-12-07 18:33:59: info: 🚀 Connected to MongoDB end!
+2023-12-07 18:33:59: info: 🚀 Initial MongoDB!
+2023-12-07 18:33:59: info: 🚀 Host: http://0.0.0.0:6666
+2023-12-07 18:34:13: info: Connecting to MongoDB...
+2023-12-07 18:34:15: info: 🚀 Connected to MongoDB!
+2023-12-07 18:34:15: info: 🚀 MongoDB connection opened!
+2023-12-07 18:34:15: info: 🚀 Connected to MongoDB end!
+2023-12-07 18:34:15: info: 🚀 Initial MongoDB!
+2023-12-07 18:34:15: info: 🚀 Host: http://0.0.0.0:6666
+2023-12-07 18:36:02: info: Connecting to MongoDB...
+2023-12-07 18:36:05: info: 🚀 Connected to MongoDB!
+2023-12-07 18:36:05: info: 🚀 MongoDB connection opened!
+2023-12-07 18:36:05: info: 🚀 Connected to MongoDB end!
+2023-12-07 18:36:05: info: 🚀 Initial MongoDB!
+2023-12-07 18:36:05: info: 🚀 Host: http://0.0.0.0:6666

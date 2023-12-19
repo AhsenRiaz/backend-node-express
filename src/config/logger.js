@@ -1,5 +1,5 @@
-const winston = require("winston");
-const config = require("./config");
+import winston from "winston";
+import config from "./config.js";
 
 const levels = {
   error: 0,
@@ -44,4 +44,4 @@ const logger = winston.createLogger({
   ],
 });
 
-module.exports  = logger;
+export default logger
